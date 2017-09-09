@@ -4,22 +4,29 @@
       body {
         font-family: Helvetica;
       }
+
       #header {
         text-align: center;
         font-size: 3em;
         font-weight: bold;
+        padding-bottom: 1em;
+        padding-top: 1em;
       }
+
       #navigation {
         display: flex;
         flex-direction: row;
-        height: 10%;
+        height: 5%;
+        padding-bottom: 1em;
+        padding-top: 1em;
       }
+
       .subject {
         text-align: center;
         height: 100%;
         width: 100%;
-        /*background: red;*/
-        padding: 20px;
+        padding-left: 1em;
+        padding-right: 1em;
       }
 
       .subject a {
@@ -27,14 +34,13 @@
         background-color: white;
         text-decoration: none;
         display: inline-block;
-        height: 100%;
-        width: 100%;
-        margin-right: 2px;
+        height: auto;
+        width: inherit;
         padding-top: 1em;
+        padding-bottom: 1em;
       }
 
       .subject a:hover {
-        /*background: radial-gradient(white, #cecece);*/
         border: 1px solid black;
       }
     </style>
