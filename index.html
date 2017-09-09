@@ -1,0 +1,63 @@
+<html>
+  <head>
+    <style>
+      body {
+        font-family: Helvetica;
+      }
+      #header {
+        text-align: center;
+        font-size: 3em;
+        font-weight: bold;
+      }
+      #navigation {
+        display: flex;
+        flex-direction: row;
+        height: 10%;
+      }
+      .subject {
+        text-align: center;
+        height: 100%;
+        width: 100%;
+        /*background: red;*/
+        padding: 20px;
+      }
+
+      .subject a {
+        color: black;
+        background-color: white;
+        text-decoration: none;
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        margin-right: 2px;
+        padding-top: 1em;
+      }
+
+      .subject a:hover {
+        /*background: radial-gradient(white, #cecece);*/
+        border: 1px solid black;
+      }
+    </style>
+    <title>Chris Drappier</title>
+  </head>
+  <body>
+    <div id="header">
+      <span>Chris Drappier</span>
+    </div>
+    <hr />
+    <div id="navigation">
+      <div id="about-me" class="subject">
+        <a href="about-me">About Me</a>
+      </div>
+      <div id="chess" class="subject">
+        <a href="chess">Chess</a>
+      </div>
+      <div id="nutrition-service" class="Subject">
+        <a href="nutrition-service">Nutrition Service</a>
+      </div>
+      <div id="cognitive-courtesy" class="subject">
+        <a href="cognitive-courtesy">Cognitive Courtesy</a>
+      </div>
+    </div>
+  </body>
+</html>
