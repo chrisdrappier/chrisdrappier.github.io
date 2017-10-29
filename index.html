@@ -1,58 +1,17 @@
+---
+title: Chris Drappier
+---
 <html>
   <head>
-    <style>
-      body {
-        font-family      : Helvetica;
-      }
-
-      #header {
-        text-align       : center;
-        font-size        : 3em;
-        font-weight      : bold;
-        padding-bottom   : 1em;
-        padding-top      : 1em;
-      }
-
-      #navigation {
-        display          : flex;
-        flex-direction   : row;
-        height           : 5%;
-        padding-bottom   : 1em;
-        padding-top      : 1em;
-      }
-
-      .subject {
-        text-align       : center;
-        height           : 100%;
-        width            : 100%;
-        padding-left     : 1em;
-        padding-right    : 1em;
-      }
-
-      .subject a, span {
-        color            : black;
-        background-color : white;
-        text-decoration  : none;
-        display          : inline-block;
-        height           : auto;
-        width            : inherit;
-        padding-top      : 1em;
-        padding-bottom   : 1em;
-        border           : 1px solid white;
-      }
-
-      .subject a:hover {
-        border           : 1px solid black;
-      }
-    </style>
-    <title>Chris Drappier</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <title>{{title}}</title>
   </head>
   <body>
     <div id="header">
       <span>Chris Drappier</span>
     </div>
-    <hr />
     <div id="navigation">
+      <hr />
       <div id="about-me" class="subject">
         <span>About Me</span>
       </div>
@@ -65,6 +24,15 @@
       <div id="cognitive-courtesy" class="subject">
         <span>Cognitive Courtesy</span>
       </div>
+      <hr />
+    </div>
+    <div id="posts">
+      {% for post in site.posts %}
+        <div class="post">
+          <span class="title"><a href="{{ post.url }}">{{ post.title }}</a></span>
+          <span class="description">{{ post.description }}</span>
+        </div>
+      {% endfor %}
     </div>
   </body>
 </html>

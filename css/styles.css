@@ -1,0 +1,61 @@
+body {
+  font-family      : Helvetica;
+}
+
+#header {
+  text-align       : center;
+  font-size        : 3em;
+  font-weight      : bold;
+  padding-bottom   : .1em;
+  padding-top      : .1em;
+}
+
+#navigation {
+  display          : flex;
+  flex-direction   : row;
+  height           : 5%;
+  margin-bottom    : 2em;
+  padding-bottom   : 1em;
+  padding-top      : 1em;
+}
+
+.subject {
+  text-align       : center;
+  height           : 100%;
+  width            : 100%;
+  padding-left     : 1em;
+  padding-right    : 1em;
+}
+
+.subject a, span {
+  color            : black;
+  background-color : white;
+  text-decoration  : none;
+  display          : inline-block;
+  height           : auto;
+  width            : inherit;
+  padding-top      : 1em;
+  padding-bottom   : 1em;
+  border           : .1em solid white;
+}
+
+.subject a:hover {
+  border           : .1em solid black;
+}
+
+.post {
+  border: 1px solid black;
+}
+
+.post span {
+  padding : .5em;
+}
+
+.post span.title {
+  font-weight: bold;
+  display: block;
+}
+
+.post span.description {
+  font-style: italic;
+}
