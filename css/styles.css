@@ -10,6 +10,10 @@ body {
   padding-top      : .1em;
 }
 
+p {
+  display: inline;
+}
+
 #navigation {
   display          : flex;
   flex-direction   : row;
