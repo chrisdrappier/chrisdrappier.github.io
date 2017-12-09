@@ -1,2 +1,3 @@
----
-root: /
+# https://stackoverflow.com/questions/33634520/jekyll-on-github-pages-not-rendering-css
+# second answer
+baseurl: /
