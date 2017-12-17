@@ -2,7 +2,7 @@
 layout: post
 title: Things I could write about
 description: the number of possible topics is overwhelming
-tags: test post
+tags: personal writing
 ---
 
 There is an unlimited amount of subjects to choose from when starting this, and my brain feels a little like that scene in Westworld where Maeve is looking at her own thoughts and freezes for a moment.
