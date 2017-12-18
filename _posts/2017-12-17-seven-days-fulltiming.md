@@ -11,7 +11,7 @@ tags: personal fulltiming
 
 My internet is great here and I've had no problems with electricity, sewer or running water.  
 
-The community I chose consists of mostly retired people. Some of whom have been living here for more than 20 years.  It is very quiet and the neighbors are friendly and respectful.
+The community I chose consists of mostly retired people, some of whom have been living here for more than 20 years.  It is very quiet and the neighbors are friendly and respectful.
 
 The views are amazing. It's right on Lake Samish and I can see the water from right outside my door.  
 
@@ -23,9 +23,9 @@ Along with a pretty smooth landing to get started, there have been a couple of c
 
 ## Unexpected Costs : $737.13
 
-I knew I was going to need to get a bigger propane tank because the two 7 gallon tanks that came with the fifth-wheel lasted about 4 days. So, I called a local propane service company and they brought out a 100 gallon tank that I rent from them and they keep full. I didn't realize i was going to have to pay for all of the propane in the tank up front, so that bill was $187.13
+I knew I was going to need to get a bigger propane tank because the two 7 gallon tanks that came with the fifth-wheel lasted about 4 days. So, I called a local propane service company and they brought out a 100 gallon tank that I rent from them and they keep full. I didn't realize I was going to have to pay for all of the propane in the tank up front, so that bill was $187.13.
 
-Then my furnace goes out! Actually burns out. Luckily it didn't burn down the trailer. The guy that came to fix it showed me a place where it charred some of the floor because the temperature regulator burned out, and the heat just kept running. Fortunately, another part failed and the gas turned off before it got any worse.  The temperature regulator and the blower motor for the furnace is going to cost me $550 including parts and labor to replace.
+Then my furnace goes out! Actually burns out. Luckily it didn't burn down the trailer. The guy that came to fix it showed me a place where it charred some of the floor because the temperature regulator burned out, and the heat just kept running. Fortunately, another part failed and the gas turned off before it got any worse.  The temperature regulator and the blower motor for the furnace will cost me $550 including parts and labor to replace.
 
 ## Number of showers : 2
 
@@ -33,7 +33,7 @@ The first shower in the fifth-wheel wasn't the best experience. The shower is ti
 
 I jumped in and tried to follow my previous shower routine that involved alot of standing around indulging in the hot water, followed by a slow and haphazard meander around my body, cleaning things as I thought of them. I used to like to use shower time to think about the day, and the primary mental occupation at the time wasn't "let's get this done as quickly as possible" it was "I have plenty of warning before the water starts to get cold, so I'll just make sure I get everything done before then."  I realized while rinsing my head full of shampoo with ice-cold water that was going to have to change.
 
-so, I turned up the heat on the water heater and did a dry run with the shower head to see what the most efficient order of operations is, and what I need to do to get to the lower parts.
+So, I turned up the heat on the water heater and did a dry run with the shower head to see what the most efficient order of operations is, and what I need to do to get to the lower parts.
 
 For the second shower, I became a human body washing machine.  I was completely focused on finishing my shower and I knew exactly what approach I was going to take. My strategy while showering has become to focus 100% on cleaning tasks while I'm in there, and linger at the end if there is any hot water.  So this way I actually did finish showering with plenty of hot water to linger for a few minutes.
 
