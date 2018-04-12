@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I'm dropping Facebook
+title: Why I've Dropped Facebook
 description: After 10 years of experimenting, I've gained nothing.
 tags: personal writing
 ---
