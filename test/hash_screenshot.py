@@ -1,4 +1,5 @@
 import hashlib
+from subprocess import call
 
 def hash_file(filename):
     hasher = hashlib.md5()
@@ -15,3 +16,8 @@ equal = screenshot == screenshot_baseline
 print("screenshot          : {}".format(screenshot))
 print("screenshot_baseline : {}".format(screenshot_baseline))
 print("equal?              : {}".format(equal))
+
+if (not equal):
+    print("generating diff.png")
+    call(["compare","baseline-screenshot.png","screenshot.png","-compose","src","diff.png"])
+    print("view diff.png to see differences")
